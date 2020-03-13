@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+data_files/
+output_files/
+scratch
